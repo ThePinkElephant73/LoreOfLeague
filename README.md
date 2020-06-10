@@ -1,5 +1,5 @@
 ## Lore of League
-[Image](https://kepkuldes.com/image/ZhynJ3)
+
 ### Description
 League of Legends isn't only gameplay , there's much more in this game!
 Do you know the champions? 
@@ -29,8 +29,7 @@ Languages : English , Hungarian
 - Freljord X
 - The Void X
 - Zaun X
-
- [Upcoming updates will have more ..]
+[Upcoming updates will have more ..]
 
 ### Contact
 Bug? Suggestion? Request? - Please send an email to : thepinkelephant73@gmail.com 
