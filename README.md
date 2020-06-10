@@ -38,3 +38,4 @@ Please send an email to : thepinkelephant73@gmail.com
 Lore of League isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
 ## WEBGL & APK Download
 [Itch.io](https://thepinkelephant.itch.io/lore-of-league) - PASSWORD : loreofleague (to the page will be unlisted)
+In WEBGL for some unknown reason can be find some bugs but the APK file works fine!
