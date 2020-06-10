@@ -29,7 +29,7 @@ Languages : English , Hungarian
 - Freljord X
 - The Void X
 - Zaun X
-[Upcoming updates will have more ..]
+- [Upcoming updates will have more ..]
 
 ## Contact
 Bug? Suggestion? Request? - Please send an email to : thepinkelephant73@gmail.com 
