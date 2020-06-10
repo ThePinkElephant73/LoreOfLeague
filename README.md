@@ -1,6 +1,6 @@
 ## Lore of League
 
-### Description
+## Description
 League of Legends isn't only gameplay , there's much more in this game!
 Do you know the champions? 
 The world they live in? 
@@ -31,7 +31,7 @@ Languages : English , Hungarian
 - Zaun X
 [Upcoming updates will have more ..]
 
-### Contact
+## Contact
 Bug? Suggestion? Request? - Please send an email to : thepinkelephant73@gmail.com 
 ## Disclaimer
 Lore of League isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
