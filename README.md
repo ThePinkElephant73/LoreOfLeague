@@ -1,4 +1,5 @@
 ## Play Lore of League - the first League of Legends lore quiz  - for free!
+[Image](https://kepkuldes.com/image/ZhynJ3)
 ### DESCRIPTION
 League of Legends isn't only gameplay , there's much more in this game!
 Do you know the champions? 
@@ -21,19 +22,19 @@ Your buddy will be always on your side and support you during a hard match.
 
 Languages : English , Hungarian
 
-Bandle City ✓
-Bilgewater✓
-Demacia✓      - 51 questions
-Ionia X
-Ixtal X
-Noxus X
-Piltover X
-Shadow Isles X
-Shurima X
-Targon X
-Freljord X
-The Void X
-Zaun X
+- Bandle City ✓
+- Bilgewater✓
+- Demacia✓      - 51 questions
+- Ionia X
+- Ixtal X
+- Noxus X
+- Piltover X
+- Shadow Isles X
+- Shurima X
+- Targon X
+- Freljord X
+- The Void X
+- Zaun X
 
  [Upcoming updates will have more ..]
 
